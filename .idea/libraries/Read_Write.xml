@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="Read_Write">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../Read_Write.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

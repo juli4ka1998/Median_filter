@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="median">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../median.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
